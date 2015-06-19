@@ -1,4 +1,4 @@
-mykey='***'
+mykey='****'
 from RiotAPI import RiotAPI
 
 def main():
