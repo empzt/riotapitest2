@@ -1,6 +1,8 @@
 import requests
 import RiotConsts as Consts
 
+
+
 class RiotAPI(object):
 
     def __init__(self, api_key, region=Consts.REGIONS['europe_west']):
