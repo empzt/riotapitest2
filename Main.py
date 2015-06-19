@@ -1,4 +1,4 @@
-mykey = '06cd112f-ac86-4ff0-bb5e-8771de1a7668'
+mykey = '****'
 import RiotConsts as Consts
 from RiotAPI import RiotAPI
 
